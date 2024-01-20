@@ -1,0 +1,13 @@
+{
+  "name": "cypress13.0",
+  "version": "13.6.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "cy:e2e": "cypress open",
+    "cy:headless": "cypress run"
+  },
+  "dependencies": {
+    "cypress": "^13.6.3"
+  }
+}
