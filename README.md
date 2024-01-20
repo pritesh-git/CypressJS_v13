@@ -1,4 +1,4 @@
-# Cypress using v12.0.0
+# Cypress using v13.0.0
 
 Cypress UI test automation using Javascript.
 
